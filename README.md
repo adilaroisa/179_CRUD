@@ -13,3 +13,5 @@
 5. GET (setelah put)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09738a67-6236-4596-a4c4-f26cdb36e500" />
 
+6. DELETE
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/297f66a2-9664-43a8-af89-2a4eccfff377" />
