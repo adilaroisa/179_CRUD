@@ -6,3 +6,6 @@
 
 3. GET (setelah post)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8105fb72-8227-44d0-8775-3646d35da12a" />
+
+4. PUT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6304b4a9-df92-48d6-aee3-3e57596289e6" />
