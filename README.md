@@ -9,3 +9,7 @@
 
 4. PUT
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6304b4a9-df92-48d6-aee3-3e57596289e6" />
+
+5. GET (setelah put)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09738a67-6236-4596-a4c4-f26cdb36e500" />
+
