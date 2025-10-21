@@ -18,3 +18,6 @@
 
 7. GET (setelah delete)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d83e2f25-1eba-4917-9ee7-2e39e3c80871" />
+
+8. SS MYSql
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa5e9b1f-b319-4f75-bfec-953e5817549d" />
