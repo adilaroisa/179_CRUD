@@ -15,3 +15,6 @@
 
 6. DELETE
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/297f66a2-9664-43a8-af89-2a4eccfff377" />
+
+7. GET (setelah delete)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d83e2f25-1eba-4917-9ee7-2e39e3c80871" />
